@@ -56,6 +56,7 @@ class MyHomePage extends StatefulWidget {
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
+// The State class contains the fields that affect how the widget looks.
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
